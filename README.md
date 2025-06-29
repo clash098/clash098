@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **swift, c++ and luau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/clash098](https://github.com/clash098)
+- 👨‍💻 All of my projects are available [here](https://github.com/clash098)
 
 - 💬 Ask me about **flask, swift and bash**
 
