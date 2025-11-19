@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Clash!</h1>
-<h3 align="center">I'm a passionate full stack developer from Australia!</h3>
+<h3 align="center">I'm a passionate developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clash098&label=Profile%20views&color=0e75b6&style=flat" alt="clash098" /> </p>
 
