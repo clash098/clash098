@@ -9,6 +9,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/clash098)
 
-- 💬 Ask me about **flask, swift and bash**
+- 💬 Ask me about **python (in general), flask and c#**
 
 - 📫 How to reach me **uhclash (discord)**
